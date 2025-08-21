@@ -20,3 +20,9 @@ AI-powered review app using **Streamlit**, **Pylint**, **Flake8**, and optional 
    git clone https://github.com/your-username/ai-code-review-bot.git
    cd ai-code-review-bot
 
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the app:
+   streamlit run code_tester.py
+
