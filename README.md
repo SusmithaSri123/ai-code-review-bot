@@ -17,7 +17,7 @@ AI-powered review app using **Streamlit**, **Pylint**, **Flake8**, and optional 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-code-review-bot.git
+   git clone https://github.com/SusmithaSri123/ai-code-review-bot.git
    cd ai-code-review-bot
 
 2. Install dependencies:
