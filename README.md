@@ -4,7 +4,7 @@ AI-powered review app using **Streamlit**, **Pylint**, **Flake8**, and optional 
 
 ---
 
-## 🚀 Features
+## Features
 - Upload and analyze Python code
 - Run **Pylint** for code quality checks
 - Run **Flake8** for style and formatting issues
@@ -13,7 +13,7 @@ AI-powered review app using **Streamlit**, **Pylint**, **Flake8**, and optional 
 
 ---
 
-## ⚡ Installation
+## Installation
 
 1. Clone the repository:
    ```bash
